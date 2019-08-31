@@ -1,0 +1,7 @@
+{
+  "name": "mipet",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
